@@ -16,6 +16,6 @@
     "express-session": "^1.17.1",
     "express-validator": "^2.20.8",
     "install": "^0.13.0",
-    "mongodb": "^2.2.9"
+    "mongodb": "^3.1.13"
   }
 }
